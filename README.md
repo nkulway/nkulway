@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nkulway
 - 👀 I’m interested in becoming a full stack developer.
 - 🌱 I’m currently learning javascript, node.js and vue.js
-- 💞️ I’m looking to collaborate on backend developement, fintech oriented.
+- 💞️ I’m looking to collaborate on backend developement.
 - 📫 How to reach me: email me at nkulway@gmail.com
 
 <!---
