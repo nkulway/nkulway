@@ -1,5 +1,5 @@
-Nick Kulway @nkulway
-Aspiring full stack developer 
+Nick Kulway @nkulway //
+Aspiring full stack developer //
 email - nkulway@gmail.com
 
 <!---
