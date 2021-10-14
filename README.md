@@ -1,5 +1,5 @@
 Nick Kulway @nkulway //
-Aspiring full stack developer //
+Aspiring Software Engineer //
 email - nkulway@gmail.com
 
 <!---
