@@ -1,5 +1,5 @@
 Nick Kulway @nkulway //
-Aspiring Software Engineer //
+Software Engineer //
 email - nkulway@gmail.com
 
 <!---
