@@ -1,6 +1,6 @@
 Nick Kulway @nkulway //
 Software Engineer //
-email - nkulway@gmail.com
+nkulway@gmail.com
 
 <!---
 nkulway/nkulway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
